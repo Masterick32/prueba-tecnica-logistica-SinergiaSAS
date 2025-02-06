@@ -77,4 +77,4 @@ Contrasena: 0e233d52-5484-497e-b23c-8909d42259b7
                      Buritica
 🔹Email: erick5.2@hotmail.com
 🔹LinkedIn : https://www.linkedin.com/in/erick-santiago-gallo-buriticá-3b1b41276/
-
+nota, revisar arquitectura_buenas_practicas.md que contiene informacion teorica solicitada.
